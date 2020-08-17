@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name tle7182em)(type Legacy)(uri ${KIPRJMOD}/symbols/tle7182em.lib)(options "")(descr ""))
+  (lib (name tle4269g)(type Legacy)(uri /home/dwblair/gitwork/motoco/ver2/hardware/symbols/tle4269g.lib)(options "")(descr ""))
 )
